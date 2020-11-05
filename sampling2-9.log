@@ -1,0 +1,1072 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  19 NOV 2018 12:26
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**sampling2-9.tex
+(./sampling2-9.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/latin9.def
+File: latin9.def 2015/03/17 v1.2c Input encoding file
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks17
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/10 v2.15b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen111
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen112
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count90
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count91
+\leftroot@=\count92
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count93
+\DOTSCASE@=\count94
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen113
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
+\dotsspace@=\muskip10
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
+\tag@help=\toks19
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
+\andhelp@=\toks20
+\eqnshift@=\dimen114
+\alignsep@=\dimen115
+\tagshift@=\dimen116
+\tagwidth@=\dimen117
+\totwidth@=\dimen118
+\lineht@=\dimen119
+\@envbody=\toks21
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count102
+))
+\Gin@req@height=\dimen120
+\Gin@req@width=\dimen121
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/wasysym/wasysym.sty
+Package: wasysym 2003/10/30 v2.0 Wasy-2 symbol support package
+\symwasy=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 90.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip46
+\bibsep=\skip47
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count103
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count104
+\output=\toks23
+\linenoprevgraf=\count105
+\linenumbersep=\dimen122
+\linenumberwidth=\dimen123
+\c@linenumber=\count106
+\c@pagewiselinenumber=\count107
+\c@LN@truepage=\count108
+\c@internallinenumber=\count109
+\c@internallinenumbers=\count110
+\quotelinenumbersep=\dimen124
+\bframerule=\dimen125
+\bframesep=\dimen126
+\bframebox=\box28
+LaTeX Info: Redefining \\ on input line 3056.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/eucal.sty
+Package: eucal 2009/06/22 v3.00 Euler Script fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2016/04/23 3.9r The Babel package
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2016/04/23 3.9r Babel common definitions
+\babel@savecnt=\count111
+\U@D=\dimen127
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+No file sampling2-9.aux.
+\openout1 = `sampling2-9.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 32.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count112
+\scratchdimen=\dimen128
+\scratchbox=\box29
+\nofMPsegments=\count113
+\nofMParguments=\count114
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count115
+\MPscratchDim=\dimen129
+\MPnumerator=\count116
+\makeMPintoPDFobject=\count117
+\everyMPtoPDFconversion=\toks25
+) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 37.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 37
+.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 37
+.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 37
+.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 37
+.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 37.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 37.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Try loading font information for U+wasy on input line 37.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/wasysym/uwasy.fd
+File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
+)
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 38.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--73
+
+ []
+
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 76.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 88.
+
+Package natbib Warning: Citation `Amrhein2015' on page 1 undefined on input lin
+e 88.
+
+
+Package natbib Warning: Citation `Amrhein2018a' on page 1 undefined on input li
+ne 88.
+
+[1
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+Package natbib Warning: Citation `Elderfield2002' on page 2 undefined on input 
+line 91.
+
+
+Package natbib Warning: Citation `Adkins2003' on page 2 undefined on input line
+ 91.
+
+
+Package natbib Warning: Citation `wunsch20000n' on page 2 undefined on input li
+ne 92.
+
+
+Package natbib Warning: Citation `Fairchild2006' on page 2 undefined on input l
+ine 92.
+
+
+Package natbib Warning: Citation `Dolman2018' on page 2 undefined on input line
+ 92.
+
+
+Package natbib Warning: Citation `VanSebille2015' on page 2 undefined on input 
+line 93.
+
+
+Package natbib Warning: Citation `Tierney2014' on page 2 undefined on input lin
+e 94.
+
+
+Package natbib Warning: Citation `pisias1988aliasing' on page 2 undefined on in
+put line 108.
+
+
+Package natbib Warning: Citation `wunsch2003densely' on page 2 undefined on inp
+ut line 110.
+
+
+Package natbib Warning: Citation `wunsch20000n' on page 2 undefined on input li
+ne 112.
+
+
+Package natbib Warning: Citation `beer2012cosmogenic' on page 2 undefined on in
+put line 113.
+
+
+Package natbib Warning: Citation `von201710' on page 2 undefined on input line 
+114.
+
+
+Package natbib Warning: Citation `jones1972aliasing' on page 2 undefined on inp
+ut line 117.
+
+
+Package natbib Warning: Citation `anderson2001attenuation' on page 2 undefined 
+on input line 120.
+
+
+Package natbib Warning: Citation `mcgee2013magnitude' on page 2 undefined on in
+put line 120.
+
+
+Package natbib Warning: Citation `buck2004bayesian' on page 2 undefined on inpu
+t line 127.
+
+
+Package natbib Warning: Citation `buck2004tools' on page 2 undefined on input l
+ine 127.
+
+
+Package natbib Warning: Citation `BronkRamsey2009' on page 2 undefined on input
+ line 127.
+
+
+Package natbib Warning: Citation `huybers2004depth' on page 2 undefined on inpu
+t line 130.
+
+
+Package natbib Warning: Citation `haam2010test' on page 2 undefined on input li
+ne 132.
+
+
+Package natbib Warning: Citation `Rhines2011' on page 2 undefined on input line
+ 135.
+
+
+Package natbib Warning: Citation `Moore1991' on page 2 undefined on input line 
+137.
+
+[2] <Figs/schematic4.pdf, id=14, 552.0625pt x 351.3125pt>
+File: Figs/schematic4.pdf Graphic file (type pdf)
+
+<use Figs/schematic4.pdf>
+Package pdftex.def Info: Figs/schematic4.pdf used on input line 141.
+(pdftex.def)             Requested size: 469.75502pt x 298.94937pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 153.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 153.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 153.
+ [3 <./Figs/schematic4.pdf>]
+
+LaTeX Warning: Reference `fig:Schematic-of-temporal' on page 4 undefined on inp
+ut line 161.
+
+
+LaTeX Warning: Reference `tab:Glossary-of-functions' on page 4 undefined on inp
+ut line 181.
+
+[4] [5]
+
+Package natbib Warning: Citation `evans2013applications' on page 6 undefined on
+ input line 240.
+
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 254.
+
+LaTeX Warning: Reference `eq:convmean' on page 6 undefined on input line 272.
+
+
+Package natbib Warning: Citation `clark2012global' on page 6 undefined on input
+ line 282.
+
+[6] [7]
+
+LaTeX Warning: Reference `eq:expectation' on page 8 undefined on input line 328
+.
+
+
+LaTeX Warning: Reference `eq:expectation' on page 8 undefined on input line 358
+.
+
+[8]
+
+LaTeX Warning: Reference `eq:fourier_all' on page 9 undefined on input line 363
+.
+
+
+LaTeX Warning: Reference `fig:sincs-1' on page 9 undefined on input line 380.
+
+
+LaTeX Warning: Reference `fig:sincs-1' on page 9 undefined on input line 382.
+
+[9]
+
+LaTeX Warning: Reference `eq:lowcut' on page 10 undefined on input line 398.
+
+
+LaTeX Warning: Reference `eq:highcut' on page 10 undefined on input line 398.
+
+<Figs/sincs_fig2.pdf, id=108, 1204.5pt x 803.0pt>
+File: Figs/sincs_fig2.pdf Graphic file (type pdf)
+ <use Figs/sincs_fig2.pdf>
+Package pdftex.def Info: Figs/sincs_fig2.pdf used on input line 405.
+(pdftex.def)             Requested size: 469.75502pt x 313.16875pt.
+
+
+LaTeX Warning: Reference `eq:xfer_fun' on page 10 undefined on input line 417.
+
+
+LaTeX Warning: Reference `eq:boxcar_def' on page 10 undefined on input line 417
+.
+
+
+LaTeX Warning: Reference `eq:sinc_def' on page 10 undefined on input line 417.
+
+
+LaTeX Warning: Reference `eq:lowcut' on page 10 undefined on input line 417.
+
+
+LaTeX Warning: Reference `eq:highcut' on page 10 undefined on input line 417.
+
+
+LaTeX Warning: Reference `eq:xfer_fun' on page 10 undefined on input line 417.
+
+
+LaTeX Warning: Reference `eq:boxcar_def' on page 10 undefined on input line 417
+.
+
+
+LaTeX Warning: Reference `eq:sinc_def' on page 10 undefined on input line 417.
+
+
+LaTeX Warning: Reference `eq:lowcut' on page 10 undefined on input line 417.
+
+
+LaTeX Warning: Reference `eq:highcut' on page 10 undefined on input line 417.
+
+[10 <./Figs/sincs_fig2.pdf>]
+
+LaTeX Warning: Reference `fig:sincs-1' on page 11 undefined on input line 441.
+
+
+LaTeX Warning: Reference `eq:fourier_all' on page 11 undefined on input line 45
+8.
+
+[11]
+
+LaTeX Warning: Reference `fig:sincs-1' on page 12 undefined on input line 471.
+
+
+Package natbib Warning: Citation `waelbroeck2009constraints' on page 12 undefin
+ed on input line 489.
+
+[12] <Figs/NGRIP_fig.pdf, id=133, 1405.25pt x 702.625pt>
+File: Figs/NGRIP_fig.pdf Graphic file (type pdf)
+
+<use Figs/NGRIP_fig.pdf>
+Package pdftex.def Info: Figs/NGRIP_fig.pdf used on input line 535.
+(pdftex.def)             Requested size: 469.75502pt x 234.87961pt.
+
+Overfull \hbox (2.28003pt too wide) in paragraph at lines 534--536
+  [] 
+ []
+
+
+Package natbib Warning: Citation `Andersen2004' on page 13 undefined on input l
+ine 558.
+
+[13] [14 <./Figs/NGRIP_fig.pdf>]
+
+LaTeX Warning: Reference `fig:NGRIP-contour' on page 15 undefined on input line
+ 582.
+
+<Figs/lag_denom_ngrip_errors.png, id=169, 264.14685pt x 264.5082pt>
+File: Figs/lag_denom_ngrip_errors.png Graphic file (type png)
+
+<use Figs/lag_denom_ngrip_errors.png>
+Package pdftex.def Info: Figs/lag_denom_ngrip_errors.png used on input line 594
+.
+(pdftex.def)             Requested size: 187.89914pt x 188.15729pt.
+
+
+LaTeX Warning: Reference `eq:frac_def' on page 15 undefined on input line 602.
+
+
+LaTeX Warning: Reference `eq:frac_def' on page 15 undefined on input line 602.
+
+[15 <./Figs/lag_denom_ngrip_errors.png (PNG copy)>]
+
+Package natbib Warning: Citation `Wunsch2003a' on page 16 undefined on input li
+ne 618.
+
+
+Package natbib Warning: Citation `huybers2006links' on page 16 undefined on inp
+ut line 620.
+
+
+Package natbib Warning: Citation `pisias1988aliasing' on page 16 undefined on i
+nput line 624.
+
+
+Package natbib Warning: Citation `wunsch20000n' on page 16 undefined on input l
+ine 624.
+
+
+LaTeX Warning: Reference `eq:fourier_all' on page 16 undefined on input line 62
+6.
+
+<Figs/lag_denom_contour_fig5.pdf, id=173, 762.85pt x 702.625pt>
+File: Figs/lag_denom_contour_fig5.pdf Graphic file (type pdf)
+
+<use Figs/lag_denom_contour_fig5.pdf>
+Package pdftex.def Info: Figs/lag_denom_contour_fig5.pdf used on input line 632
+.
+(pdftex.def)             Requested size: 469.75502pt x 432.66394pt.
+
+Overfull \hbox (2.28003pt too wide) in paragraph at lines 631--633
+  [] 
+ []
+
+
+LaTeX Warning: Reference `eq:ideal_tau_y' on page 16 undefined on input line 64
+5.
+
+
+LaTeX Warning: Reference `eq:ideal_tau_y' on page 16 undefined on input line 64
+5.
+
+
+LaTeX Warning: Reference `fig:Numerical-integration-of' on page 16 undefined on
+ input line 649.
+
+
+LaTeX Warning: Reference `fig:Numerical-integration-of' on page 16 undefined on
+ input line 652.
+
+
+LaTeX Warning: Reference `fig:NGRIP-contour' on page 16 undefined on input line
+ 653.
+
+
+LaTeX Warning: Reference `fig:Numerical-integration-of' on page 16 undefined on
+ input line 662.
+
+
+LaTeX Warning: Reference `fig:Numerical-integration-of' on page 16 undefined on
+ input line 663.
+
+
+Package natbib Warning: Citation `wunsch1978north' on page 16 undefined on inpu
+t line 671.
+
+
+Package natbib Warning: Citation `Wunsch2003a' on page 16 undefined on input li
+ne 671.
+
+
+LaTeX Warning: Reference `fig:Numerical-integration-of' on page 16 undefined on
+ input line 672.
+
+
+LaTeX Warning: Reference `fig:Numerical-integration-of' on page 16 undefined on
+ input line 673.
+
+
+LaTeX Warning: Reference `eq:ideal_tau_y' on page 16 undefined on input line 68
+1.
+
+
+LaTeX Warning: Reference `fig:Numerical-integration-of' on page 16 undefined on
+ input line 681.
+
+[16] [17 <./Figs/lag_denom_contour_fig5.pdf>]
+
+LaTeX Warning: Reference `fig:delta' on page 18 undefined on input line 690.
+
+
+LaTeX Warning: Reference `fig:delta' on page 18 undefined on input line 695.
+
+
+<Figs/lag_denom_contour_fig_delta_6000_cornerfit.pdf, id=212, 1003.75pt x 702.6
+25pt>
+File: Figs/lag_denom_contour_fig_delta_6000_cornerfit.pdf Graphic file (type pd
+f)
+ <use Figs/lag_denom_contour_fig_delta_6000_cornerfit.pdf>
+Package pdftex.def Info: Figs/lag_denom_contour_fig_delta_6000_cornerfit.pdf us
+ed on input line 706.
+(pdftex.def)             Requested size: 469.75502pt x 328.82932pt.
+
+Overfull \hbox (2.28003pt too wide) in paragraph at lines 705--707
+  [] 
+ []
+
+
+LaTeX Warning: Reference `fig:Numerical-integration-of' on page 18 undefined on
+ input line 719.
+
+
+LaTeX Warning: Reference `fig:Numerical-integration-of' on page 18 undefined on
+ input line 719.
+
+
+LaTeX Warning: Reference `eq:over_p(del)' on page 18 undefined on input line 73
+0.
+
+
+Package natbib Warning: Citation `Telford2004' on page 18 undefined on input li
+ne 732.
+
+
+LaTeX Warning: Reference `eq:over_p(del)' on page 18 undefined on input line 73
+5.
+
+
+LaTeX Warning: Reference `fig:sigdelta' on page 18 undefined on input line 739.
+
+
+
+LaTeX Warning: Reference `fig:delta' on page 18 undefined on input line 740.
+
+
+LaTeX Warning: Reference `fig:delta' on page 18 undefined on input line 743.
+
+[18] [19 <./Figs/lag_denom_contour_fig_delta_6000_cornerfit.pdf>]
+<Figs/lag_denom_contour_fig_sigdelta_6000.pdf, id=256, 1003.75pt x 702.625pt>
+File: Figs/lag_denom_contour_fig_sigdelta_6000.pdf Graphic file (type pdf)
+
+<use Figs/lag_denom_contour_fig_sigdelta_6000.pdf>
+Package pdftex.def Info: Figs/lag_denom_contour_fig_sigdelta_6000.pdf used on i
+nput line 754.
+(pdftex.def)             Requested size: 469.75502pt x 328.82932pt.
+
+Overfull \hbox (2.28003pt too wide) in paragraph at lines 753--755
+  [] 
+ []
+
+
+LaTeX Warning: Reference `fig:Numerical-integration-of' on page 20 undefined on
+ input line 765.
+
+
+LaTeX Warning: Reference `fig:Numerical-integration-of' on page 20 undefined on
+ input line 765.
+
+[20 <./Figs/lag_denom_contour_fig_sigdelta_6000.pdf>]
+
+Package natbib Warning: Citation `shannon1949communication' on page 21 undefine
+d on input line 783.
+
+
+Package natbib Warning: Citation `von201710' on page 21 undefined on input line
+ 798.
+
+[21]
+
+LaTeX Warning: Reference `eq:fourier_all' on page 22 undefined on input line 84
+9.
+
+[22]
+
+LaTeX Warning: Reference `fig:ts-ty' on page 23 undefined on input line 880.
+
+
+LaTeX Warning: Reference `fig:Numerical-integration-of' on page 23 undefined on
+ input line 882.
+
+<Figs/ts_fig.pdf, id=298, 762.85pt x 702.625pt>
+File: Figs/ts_fig.pdf Graphic file (type pdf)
+ <use Figs/ts_fig.pdf>
+Package pdftex.def Info: Figs/ts_fig.pdf used on input line 896.
+(pdftex.def)             Requested size: 469.75502pt x 432.66394pt.
+
+Overfull \hbox (2.28003pt too wide) in paragraph at lines 895--897
+  [] 
+ []
+
+
+LaTeX Warning: Reference `fig:Numerical-integration-of' on page 23 undefined on
+ input line 902.
+
+
+LaTeX Warning: Reference `fig:Numerical-integration-of' on page 23 undefined on
+ input line 902.
+
+
+Package natbib Warning: Citation `emery2014data' on page 23 undefined on input 
+line 912.
+
+
+Package natbib Warning: Citation `Amrhein2015' on page 23 undefined on input li
+ne 914.
+
+
+Package natbib Warning: Citation `Schulz1997' on page 23 undefined on input lin
+e 915.
+
+[23] [24 <./Figs/ts_fig.pdf>]
+
+Package natbib Warning: Citation `Amrhein2015' on page 25 undefined on input li
+ne 936.
+
+
+Package natbib Warning: Citation `Amrhein2018a' on page 25 undefined on input l
+ine 936.
+
+
+Overfull \hbox (3.60432pt too wide) in paragraph at lines 930--942
+\T1/ptm/m/n/12 and in-cor-po-rat-ing them into re-con-struc-tions us-ing in-ver
+se mod-el-ing or data as-sim-i-la-tion ap-proaches.
+ []
+
+
+LaTeX Warning: Reference `fig:sigdelta' on page 25 undefined on input line 958.
+
+
+
+Package natbib Warning: Citation `waelbroeck2009constraints' on page 25 undefin
+ed on input line 961.
+
+
+Package natbib Warning: Citation `caley2014oxygen' on page 25 undefined on inpu
+t line 961.
+
+[25]
+
+LaTeX Warning: Reference `subsec:freq_dom' on page 26 undefined on input line 9
+70.
+
+
+LaTeX Warning: Reference `sec:Extension-to-time' on page 26 undefined on input 
+line 974.
+
+
+LaTeX Warning: Reference `eq:fourier_all' on page 26 undefined on input line 98
+7.
+
+
+LaTeX Warning: Reference `eq:over_p(del)' on page 26 undefined on input line 99
+1.
+
+
+LaTeX Warning: Reference `eq:over_p(del)' on page 26 undefined on input line 99
+6.
+
+[26]
+
+LaTeX Warning: Reference `fig:NGRIP' on page 27 undefined on input line 1004.
+
+
+Package natbib Warning: Citation `tierney2011identifying' on page 27 undefined 
+on input line 1009.
+
+
+Package natbib Warning: Citation `evans2013applications' on page 27 undefined o
+n input line 1012.
+
+
+Package natbib Warning: Citation `Dee2015' on page 27 undefined on input line 1
+012.
+
+
+Package natbib Warning: Citation `Dolman2018' on page 27 undefined on input lin
+e 1012.
+
+
+Package natbib Warning: Citation `forget2007estimated' on page 27 undefined on 
+input line 1019.
+
+
+Package natbib Warning: Citation `Zhao2018a' on page 27 undefined on input line
+ 1020.
+
+
+Package natbib Warning: Citation `VanSebille2015' on page 27 undefined on input
+ line 1024.
+
+
+Package natbib Warning: Citation `Kirchner2005' on page 27 undefined on input l
+ine 1035.
+
+
+Package natbib Warning: Citation `herbert1991long' on page 27 undefined on inpu
+t line 1044.
+
+
+Package natbib Warning: Citation `wunsch2003densely' on page 27 undefined on in
+put line 1044.
+
+[27]
+
+LaTeX Warning: Reference `eq:expectation' on page 28 undefined on input line 10
+65.
+
+[28]
+
+LaTeX Warning: Reference `eq:convmeanstar' on page 29 undefined on input line 1
+081.
+
+
+LaTeX Warning: Reference `eq:mhat' on page 29 undefined on input line 1087.
+
+
+LaTeX Warning: Reference `eq:full_no_shift' on page 29 undefined on input line 
+1096.
+
+[29]
+
+LaTeX Warning: Reference `fig:freq-dep-errors' on page 30 undefined on input li
+ne 1123.
+
+
+LaTeX Warning: Reference `fig:freq-dep-errors' on page 30 undefined on input li
+ne 1129.
+
+
+LaTeX Warning: Reference `fig:sincs-1' on page 30 undefined on input line 1133.
+
+
+<Figs/cosines_fig.pdf, id=358, 1304.875pt x 602.25pt>
+File: Figs/cosines_fig.pdf Graphic file (type pdf)
+
+<use Figs/cosines_fig.pdf>
+Package pdftex.def Info: Figs/cosines_fig.pdf used on input line 1137.
+(pdftex.def)             Requested size: 469.75502pt x 216.80983pt.
+
+
+LaTeX Warning: Reference `eq:cos_dependence' on page 30 undefined on input line
+ 1150.
+
+
+LaTeX Warning: Reference `eq:cos_dependence' on page 30 undefined on input line
+ 1150.
+
+
+LaTeX Warning: Reference `fig:white noise' on page 30 undefined on input line 1
+161.
+
+
+Overfull \hbox (109.09477pt too wide) in paragraph at lines 1156--1163
+\T1/ptm/m/n/12 in-te-grate these equa-tions and re-pro-duce Fig-ure [] is avail
+-able at https://github.com/amrhein/Temporal_representativeness. 
+ []
+
+No file sampling2-9.bbl.
+
+Package natbib Warning: There were undefined citations.
+
+[30] [31 <./Figs/cosines_fig.pdf>] (./sampling2-9.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4355 strings out of 493014
+ 59553 string characters out of 6133351
+ 134309 words of memory out of 5000000
+ 7749 multiletter control sequences out of 15000+600000
+ 72140 words of font info for 122 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,11n,32p,1304b,307s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
+exlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/tex
+live/2016/texmf-dist/fonts/type1/public/stix/STIXGeneral-Italic.pfb></usr/local
+/texlive/2016/texmf-dist/fonts/type1/public/stix/STIXGeneral-Regular.pfb></usr/
+local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loca
+l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
+/texlive/2016/texmf-dist/fonts/type1/public/rsfs/rsfs10.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/cm-super/sfss0600.pfb></usr/local/texlive/2
+016/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2016/texmf-d
+ist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2016/texmf-dist/fonts/t
+ype1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/t
+imes/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmri
+8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/wasy2-ps/wasy10.p
+fb>
+Output written on sampling2-9.pdf (31 pages, 5346899 bytes).
+PDF statistics:
+ 441 PDF objects out of 1000 (max. 8388607)
+ 314 compressed objects within 4 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+
